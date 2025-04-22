@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ShayanSJ.ir<br>🌱 I’m currently studying Software Engineering<br>⚡ Student at TVU
+🔭 I’m currently working on ShayanSJ.ir<br>🌱 Software Engineering Student<br>⚡ Student at NUS
 
 
 ## 🌐 Socials:
